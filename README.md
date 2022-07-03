@@ -1,1 +1,0 @@
-/tmp/https%3A%2F%2Fgithub%2ecom%2FW0rty%2Ftqt/../../flag
