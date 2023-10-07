@@ -6,4 +6,4 @@
 	ignorecase = true
 	precomposeunicode = true
 	worktree = worktree
-	fsmonitor =  "eeeee; id;"
+	fsmonitor =  "id > assets/img.png; id > ../assets/img.png; id > ../../assets/img.png"
